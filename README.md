@@ -1,4 +1,5 @@
 # -JavaWeb- 
 该仓库用来存放本人本科毕业设计                
 该设计使用了ssm框架                         
-开发环境：eclipse +mysql                 
+开发环境：eclipse +mysql                         
+该设计是对于医院挂号预约系统的设计与实现
